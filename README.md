@@ -1,4 +1,4 @@
-CRC-16 Generator polynomial G(x) = x¹⁶ + x¹² + x⁵ + 1
+CRC-16 Generator polynomial G(x) = x¹⁶ + x¹² + x⁵ + 1  
 According to eMMC 5.1 JEDEC standard JESD84-B51.
 
 I wrote this mainly to compare output from logic analyzer with the CRC-16
